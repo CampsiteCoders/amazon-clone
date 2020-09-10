@@ -1,3 +1,32 @@
+
+
+
+
+
+
+
+ {Array(rating).fill().map((_, i) => (
+                <span role="img" aria-label="star-rating">⭐</span> 
+               ))}
+
+
+
+     {Array(rating).fill().map((_, i) => 
+                                (`⭐`))  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
